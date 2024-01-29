@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/heianggii" target="blank"><img src="https://img.shields.io/twitter/follow/heianggii?logo=twitter&style=for-the-badge" alt="heianggii" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Copy Writing**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Data Analysis and Digital Marketing**
+- 💬 Ask me about **Data Analysis and Data Science**
 
 - 📫 How to reach me **herfinggi.ayuwindi@gmail.com**
 
